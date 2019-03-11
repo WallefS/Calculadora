@@ -1,0 +1,37 @@
+body{
+
+	margin-top: 0;
+	padding: 0;
+
+}
+
+.button{
+
+	 width: 50px;
+	 height: 50px;
+	 font-size: 25px;
+	 margin: 2px;
+	 cursor: pointer;
+}
+
+.textview{
+	width: 217px;
+	margin: 5px;
+	font-size: 25px;
+	padding: 5px;
+}
+
+.main{
+
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+
+}
+
+.bg{
+
+	background: blue;
+	height: 100%;
+}
